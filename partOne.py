@@ -4,6 +4,6 @@ def main():
 
 def myFunction(text):
   text=text.replace(" ","a")
-    print(text)
+  print(text)
 
 main()
